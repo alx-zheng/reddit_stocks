@@ -1,0 +1,105 @@
+Symbol,Name,"% Holding",Shares
+AAPL,"Apple Inc",10.85%,140638478
+MSFT,"Microsoft Corp",9.76%,63473889
+AMZN,"Amazon.com Inc",8.38%,4250274
+FB,"Facebook  Inc.",4.11%,20193157
+TSLA,"Tesla Inc",3.96%,10047156
+GOOG,"Alphabet Inc",3.96%,2727054
+NVDA,"NVIDIA Corp",3.65%,7989706
+GOOGL,"Alphabet Inc",3.55%,2534555
+PYPL,"PayPal Holdings Inc",2.53%,15065403
+ADBE,"Adobe Inc",2.07%,6130139
+CMCSA,"Comcast Corp",1.89%,58798841
+NFLX,"Netflix Inc",1.73%,5686434
+INTC,"Intel Corp",1.70%,51785782
+CSCO,"Cisco Systems Inc",1.64%,54045502
+PEP,"PepsiCo Inc",1.49%,17718899
+AVGO,"BROADCOM INC",1.42%,5236317
+TMUS,"T-Mobile US Inc",1.33%,15990467
+TXN,"TEXAS INSTRUME",1.30%,11843787
+COST,"Costco Wholesale Corp",1.29%,5675298
+QCOM,"QUALCOMM Inc",1.16%,14466171
+AMGN,"Amgen Inc",1.02%,7368469
+CHTR,"Charter Communications Inc",1.00%,2419591
+INTU,"Intuit Inc",0.98%,3504484
+SBUX,SBUX,0.97%,15111235
+AMAT,"Applied Materials Inc",0.95%,11721428
+ISRG,"Intuitive Surgic",0.79%,1518627
+AMD,"Advanced Micro Devices",0.78%,15582203
+MU,"MICRON TECH",0.69%,14381699
+LRCX,"Lam Research Corp",0.68%,1829041
+ZM,"Zoom Video Communications Inc",0.67%,3030178
+BKNG,"BOOKING HOLDIN",0.66%,526472
+MRNA,"Moderna Inc",0.66%,5149423
+MDLZ,"MONDELEZ INT C",0.65%,18014895
+GILD,"GILEAD SCI",0.62%,16084326
+ADP,"Automatic Data Processing Inc",0.61%,5457086
+MELI,"MercadoLibre Inc",0.58%,639359
+ATVI,"Activision Blizzard Inc",0.54%,9964894
+CSX,"CSX Corp",0.53%,9713381
+FISV,"Fiserv  Inc.",0.53%,8551046
+ILMN,"ILLUMINA INC",0.52%,1872339
+ADSK,"Autodesk Inc",0.47%,2822261
+ADI,"Analog Devices Inc",0.46%,4730106
+JD,"JD.com Inc ADR",0.46%,10334727
+NXPI,"NXP Semiconductor NV",0.42%,3536416
+REGN,"Regeneron Pharmaceuticals Inc",0.42%,1342685
+ASML,"ASML Holding NV",0.41%,1018933
+DOCU,"DocuSign Inc",0.41%,2495054
+IDXX,"IDEXX Laboratories Inc",0.40%,1093717
+BIDU,"Baidu Inc",0.39%,3322863
+BIIB,"BIOGEN INC",0.38%,1930758
+VRTX,"Vertex Pharmaceuticals Inc",0.38%,3319871
+KHC,"Kraft Heinz Co/The",0.37%,15686375
+KDP,"Keurig Dr Pepper Inc",0.36%,18177431
+KLAC,"KLA Corp",0.36%,1965793
+ALGN,"ALIGN TECHNOLOGY INC",0.36%,1014919
+MNST,"Monster Beverage Corp",0.36%,6778607
+MRVL,"Marvell Technology Group Ltd",0.35%,10506924
+PDD,"Pinduoduo Inc",0.35%,4852124
+EBAY,"EBAY INC",0.34%,8736916
+WDAY,"Workday Inc",0.34%,2423812
+LULU,"Lululemon Athletica Inc",0.33%,1604662
+WBA,"Walgreens Boots Alliance Inc",0.33%,11085555
+MAR,"Marriott International Inc",0.33%,4176232
+EXC,"EXELON CORP",0.32%,12531876
+MTCH,"Match Group Inc",0.32%,3466199
+ROST,"Ross Stores Inc",0.32%,4573438
+AEP,"American Electric Power Co Inc",0.31%,6409109
+SNPS,"SYNOPSYS INC",0.31%,1956723
+MCHP,"MICROCHIP TECH",0.31%,3507952
+DXCM,DEXCOM,0.30%,1240156
+EA,"ELECTRONIC ART",0.30%,3670249
+ALXN,"Alexion Pharmaceuticals",0.30%,2834510
+CTAS,"Cintas Corp",0.29%,1347252
+ORLY,"OReilly Automotive Inc",0.29%,894699
+PAYX,"Paychex Inc",0.28%,4621521
+CDNS,"CADENCE DESIGN SYS INC COMMON STOCK USD.01",0.28%,3568616
+CTSH,"Cognizant Technology Solutions Corp",0.27%,6763823
+XEL,"Xcel Energy Inc",0.27%,6902263
+TEAM,"Atlassian Corp PLC",0.26%,1734993
+PTON,"Peloton Interactive Inc",0.25%,3446573
+NTES,"NetEase Inc",0.25%,3864195
+XLNX,"Xilinx Inc",0.24%,3152815
+CPRT,"Copart Inc",0.23%,3034040
+OKTA,"Okta Inc",0.23%,1603789
+PCAR,"PACCAR Inc",0.23%,4452119
+ANSS,"ANSYS Inc",0.22%,1117684
+SWKS,"Skyworks Solutions Inc",0.22%,2117208
+FAST,FASTENAL,0.22%,7367228
+SGEN,"Seattle Genetics Inc",0.22%,2327336
+VRSK,"Verisk Analytics Inc",0.21%,2078711
+MXIM,"MAXIM INTEGRATED PRODUCTS",0.21%,3441625
+SIRI,SIRI,0.20%,52462464
+VRSN,"VeriSign Inc",0.19%,1444290
+CDW,"CDW Corp",0.18%,1798068
+CERN,"Cerner Corp",0.17%,3864256
+SPLK,"Splunk Inc",0.17%,2102016
+DLTR,"DOLLAR TREE IN",0.17%,2974731
+INCY,"INCYTE CORP",0.14%,2820387
+TCOM,"Trip.com Group Ltd ADR",0.14%,6756523
+CHKP,"Check Point Software Technologies Ltd",0.12%,1735085
+FOXA,"Fox Corp",0.09%,4192824
+FOX,"Fox Corp",0.07%,3248117
+QQQ,"Invesco QQQ 1",0.00%,0
+"Downloaded from Barchart.com as of 06-30-2021 03:23pm CDT"

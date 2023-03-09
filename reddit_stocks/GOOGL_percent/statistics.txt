@@ -1,0 +1,52 @@
+Root Mean Squared Error of Prices on 28 windows: 355.612491
+R squared of Prices on 28 windows: 0.457312
+Root Mean Squared Error of Percent Change on 28 windows: 0.018858
+R squared of Percent Change on 28 windows: 0.000000
+Root Mean Squared Error of Prices on 28 windows: 171.319241
+R squared of Prices on 28 windows: 0.850102
+Root Mean Squared Error of Percent Change on 28 windows: 0.016584
+R squared of Percent Change on 28 windows: 0.204028
+Root Mean Squared Error of Prices on 28 windows: 153.176444
+R squared of Prices on 28 windows: 0.880169
+Root Mean Squared Error of Percent Change on 28 windows: 0.017168
+R squared of Percent Change on 28 windows: 0.146917
+Root Mean Squared Error of Prices on 28 windows: 145.776240
+R squared of Prices on 28 windows: 0.891468
+Root Mean Squared Error of Percent Change on 28 windows: 0.016648
+R squared of Percent Change on 28 windows: 0.197888
+Root Mean Squared Error of Prices on 28 windows: 185.611099
+R squared of Prices on 28 windows: 0.824049
+Root Mean Squared Error of Percent Change on 28 windows: 0.014164
+R squared of Percent Change on 28 windows: 0.419366
+Root Mean Squared Error of Prices on 28 windows: 185.611099
+R squared of Prices on 28 windows: 0.824049
+Root Mean Squared Error of Percent Change on 28 windows: 0.014164
+R squared of Percent Change on 28 windows: 0.419366
+Root Mean Squared Error of Prices on 28 windows: 176.283058
+R squared of Prices on 28 windows: 0.841290
+Root Mean Squared Error of Percent Change on 28 windows: 0.015338
+R squared of Percent Change on 28 windows: 0.319125
+Root Mean Squared Error of Prices on 28 windows: 153.255161
+R squared of Prices on 28 windows: 0.880046
+Root Mean Squared Error of Percent Change on 28 windows: 0.016983
+R squared of Percent Change on 28 windows: 0.165236
+Root Mean Squared Error of Prices on 28 windows: 237.890601
+R squared of Prices on 28 windows: 0.757143
+Root Mean Squared Error of Percent Change on 28 windows: 0.017778
+R squared of Percent Change on 28 windows: 0.111311
+Root Mean Squared Error of Prices on 28 windows: 114.255732
+R squared of Prices on 28 windows: 0.943979
+Root Mean Squared Error of Percent Change on 28 windows: 0.017257
+R squared of Percent Change on 28 windows: 0.162608
+Root Mean Squared Error of Prices on 2 windows: 381.624169
+R squared of Prices on 2 windows: 0.378675
+Root Mean Squared Error of Percent Change on 2 windows: 0.018876
+R squared of Percent Change on 2 windows: 0.007459
+Root Mean Squared Error of Prices on 2 windows: 419.889997
+R squared of Prices on 2 windows: 0.247827
+Root Mean Squared Error of Percent Change on 2 windows: 0.018947
+R squared of Percent Change on 2 windows: 0.000000
+Root Mean Squared Error of Prices on 28 windows: 355.612491
+R squared of Prices on 28 windows: 0.457312
+Root Mean Squared Error of Percent Change on 28 windows: 0.018858
+R squared of Percent Change on 28 windows: 0.000000
